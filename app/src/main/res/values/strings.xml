@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Our Gist</string>
+    <string name="no_todos">No News</string>
+    <string name="naija_news">News</string>
+    <string name="sports_news">Sports</string>
+    <string name="tech_news">Tech</string>
+    <string name="biz_news">Business</string>
+    <string name="entertainment_news">Fun</string>
+</resources>
